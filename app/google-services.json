@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284718296602",
+    "project_id": "mayapp-f2926",
+    "storage_bucket": "mayapp-f2926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284718296602:android:5c8740dd10a8eed3b1eba3",
+        "android_client_info": {
+          "package_name": "com.example.mayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD038JYsYefwBK5ApnXTJV5l8g3CNpMMmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
